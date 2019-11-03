@@ -1,6 +1,6 @@
 package com.company;
 
-public class ScanningQueue {
+class ScanningQueue {
     private int threadsMax;
     int activeThreads =0;
     ScanningQueue(int threadsMax){
@@ -12,5 +12,8 @@ public class ScanningQueue {
         }
         activeThreads++;
         new ScanThread(ip, port, this);
+    }
+    synchronized void freeThread(){
+        activeThreads--;
     }
 }

@@ -13,7 +13,7 @@ class ArgParser {
     }
 
     void parseIp() throws InterruptedException {
-        for(String str : cmd.getOptionValues('i')){
+        for(String str : cmd.getOptionValues('h')){
             boolean isValid = true;
             String[] blocks = str.split("\\.");
             for(int i =0; i<=2; i++) if(Integer.parseInt(blocks[i])>225||Integer.parseInt(blocks[i])<0) isValid = false;
@@ -39,7 +39,7 @@ class ArgParser {
     }
 
     private void parsePort(String addr) throws InterruptedException {
-        for(String str : cmd.getOptionValues('a')){
+        for(String str : cmd.getOptionValues('p')){
             String[] vals = str.split("-");
             if(vals.length ==2){
                 for(int i = Integer.parseInt(vals[0]); i<=Integer.parseInt(vals[1]);i++) queue.addTask(addr,i);
