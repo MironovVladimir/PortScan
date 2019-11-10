@@ -1,0 +1,1804 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-10T14:03:57.680435400Z</date>
+  <millis>1573394637680</millis>
+  <nanos>435400</nanos>
+  <sequence>0</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ArgParser</class>
+  <method>parseIp</method>
+  <thread>1</thread>
+  <message>recived '127.0.0.0-1' ip argument </message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.878502900Z</date>
+  <millis>1573394637878</millis>
+  <nanos>502900</nanos>
+  <sequence>1</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ArgParser</class>
+  <method>parsePort</method>
+  <thread>1</thread>
+  <message>recived '8880-8890' port argument</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.941003600Z</date>
+  <millis>1573394637941</millis>
+  <nanos>3600</nanos>
+  <sequence>2</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8880 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.941003600Z</date>
+  <millis>1573394637941</millis>
+  <nanos>3600</nanos>
+  <sequence>3</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8881 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.941003600Z</date>
+  <millis>1573394637941</millis>
+  <nanos>3600</nanos>
+  <sequence>4</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8882 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.941003600Z</date>
+  <millis>1573394637941</millis>
+  <nanos>3600</nanos>
+  <sequence>5</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8883 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.941003600Z</date>
+  <millis>1573394637941</millis>
+  <nanos>3600</nanos>
+  <sequence>6</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8884 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.956627300Z</date>
+  <millis>1573394637956</millis>
+  <nanos>627300</nanos>
+  <sequence>7</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8885 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.956627300Z</date>
+  <millis>1573394637956</millis>
+  <nanos>627300</nanos>
+  <sequence>8</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8886 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.956627300Z</date>
+  <millis>1573394637956</millis>
+  <nanos>627300</nanos>
+  <sequence>9</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8887 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.972252100Z</date>
+  <millis>1573394637972</millis>
+  <nanos>252100</nanos>
+  <sequence>10</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8888 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.972252100Z</date>
+  <millis>1573394637972</millis>
+  <nanos>252100</nanos>
+  <sequence>11</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8889 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.987877900Z</date>
+  <millis>1573394637987</millis>
+  <nanos>877900</nanos>
+  <sequence>12</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8890 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.987877900Z</date>
+  <millis>1573394637987</millis>
+  <nanos>877900</nanos>
+  <sequence>13</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ArgParser</class>
+  <method>parsePort</method>
+  <thread>1</thread>
+  <message>recived '800-810' port argument</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.987877900Z</date>
+  <millis>1573394637987</millis>
+  <nanos>877900</nanos>
+  <sequence>14</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 800 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.987877900Z</date>
+  <millis>1573394637987</millis>
+  <nanos>877900</nanos>
+  <sequence>15</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 801 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.987877900Z</date>
+  <millis>1573394637987</millis>
+  <nanos>877900</nanos>
+  <sequence>16</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 802 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.987877900Z</date>
+  <millis>1573394637987</millis>
+  <nanos>877900</nanos>
+  <sequence>17</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 803 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.987877900Z</date>
+  <millis>1573394637987</millis>
+  <nanos>877900</nanos>
+  <sequence>18</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 804 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.987877900Z</date>
+  <millis>1573394637987</millis>
+  <nanos>877900</nanos>
+  <sequence>19</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 805 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.987877900Z</date>
+  <millis>1573394637987</millis>
+  <nanos>877900</nanos>
+  <sequence>20</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 806 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.987877900Z</date>
+  <millis>1573394637987</millis>
+  <nanos>877900</nanos>
+  <sequence>21</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 807 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.987877900Z</date>
+  <millis>1573394637987</millis>
+  <nanos>877900</nanos>
+  <sequence>22</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 808 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.987877900Z</date>
+  <millis>1573394637987</millis>
+  <nanos>877900</nanos>
+  <sequence>23</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 809 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:57.987877900Z</date>
+  <millis>1573394637987</millis>
+  <nanos>877900</nanos>
+  <sequence>24</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 810 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>25</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ArgParser</class>
+  <method>parsePort</method>
+  <thread>1</thread>
+  <message>recived '8075-8085' port argument</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>26</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8075 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>27</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8076 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>28</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8077 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>29</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8078 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>30</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8079 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>31</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8080 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>32</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8081 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>33</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8082 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>34</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8083 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>35</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8084 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>36</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8085 port on 127.0.0.0 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>37</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ArgParser</class>
+  <method>parsePort</method>
+  <thread>1</thread>
+  <message>recived '8880-8890' port argument</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>38</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8880 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.003504200Z</date>
+  <millis>1573394638003</millis>
+  <nanos>504200</nanos>
+  <sequence>39</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8881 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.019126500Z</date>
+  <millis>1573394638019</millis>
+  <nanos>126500</nanos>
+  <sequence>40</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8882 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>41</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8883 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>42</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8884 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>43</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8885 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>44</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8886 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>45</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8887 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>46</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8888 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>47</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8889 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>48</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8890 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>49</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ArgParser</class>
+  <method>parsePort</method>
+  <thread>1</thread>
+  <message>recived '800-810' port argument</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>50</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 800 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>51</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 801 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>52</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 802 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>53</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 803 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.034751800Z</date>
+  <millis>1573394638034</millis>
+  <nanos>751800</nanos>
+  <sequence>54</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 804 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.050376500Z</date>
+  <millis>1573394638050</millis>
+  <nanos>376500</nanos>
+  <sequence>55</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 805 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.050376500Z</date>
+  <millis>1573394638050</millis>
+  <nanos>376500</nanos>
+  <sequence>56</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 806 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.050376500Z</date>
+  <millis>1573394638050</millis>
+  <nanos>376500</nanos>
+  <sequence>57</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 807 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.050376500Z</date>
+  <millis>1573394638050</millis>
+  <nanos>376500</nanos>
+  <sequence>58</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 808 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.050376500Z</date>
+  <millis>1573394638050</millis>
+  <nanos>376500</nanos>
+  <sequence>59</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 809 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.050376500Z</date>
+  <millis>1573394638050</millis>
+  <nanos>376500</nanos>
+  <sequence>60</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 810 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.050376500Z</date>
+  <millis>1573394638050</millis>
+  <nanos>376500</nanos>
+  <sequence>61</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ArgParser</class>
+  <method>parsePort</method>
+  <thread>1</thread>
+  <message>recived '8075-8085' port argument</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.050376500Z</date>
+  <millis>1573394638050</millis>
+  <nanos>376500</nanos>
+  <sequence>62</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8075 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.050376500Z</date>
+  <millis>1573394638050</millis>
+  <nanos>376500</nanos>
+  <sequence>63</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8076 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.050376500Z</date>
+  <millis>1573394638050</millis>
+  <nanos>376500</nanos>
+  <sequence>64</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8077 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.050376500Z</date>
+  <millis>1573394638050</millis>
+  <nanos>376500</nanos>
+  <sequence>65</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8078 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.050376500Z</date>
+  <millis>1573394638050</millis>
+  <nanos>376500</nanos>
+  <sequence>66</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8079 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.175376300Z</date>
+  <millis>1573394638175</millis>
+  <nanos>376300</nanos>
+  <sequence>67</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>60 from</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.286002Z</date>
+  <millis>1573394638286</millis>
+  <nanos>2000</nanos>
+  <sequence>68</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>60 from</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.410998700Z</date>
+  <millis>1573394638410</millis>
+  <nanos>998700</nanos>
+  <sequence>69</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>60 from</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.520375300Z</date>
+  <millis>1573394638520</millis>
+  <nanos>375300</nanos>
+  <sequence>70</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>60 from</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.629751300Z</date>
+  <millis>1573394638629</millis>
+  <nanos>751300</nanos>
+  <sequence>71</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>60 from</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.758455200Z</date>
+  <millis>1573394638758</millis>
+  <nanos>455200</nanos>
+  <sequence>72</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>60 from</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.867123900Z</date>
+  <millis>1573394638867</millis>
+  <nanos>123900</nanos>
+  <sequence>73</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>60 from</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:58.976498400Z</date>
+  <millis>1573394638976</millis>
+  <nanos>498400</nanos>
+  <sequence>74</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>60 from</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.085889300Z</date>
+  <millis>1573394639085</millis>
+  <nanos>889300</nanos>
+  <sequence>75</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>60 from</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.195246900Z</date>
+  <millis>1573394639195</millis>
+  <nanos>246900</nanos>
+  <sequence>76</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>60 from</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.315585400Z</date>
+  <millis>1573394639315</millis>
+  <nanos>585400</nanos>
+  <sequence>87</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>68</thread>
+  <message>810 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.318584200Z</date>
+  <millis>1573394639318</millis>
+  <nanos>584200</nanos>
+  <sequence>103</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>49</thread>
+  <message>8882 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.318584200Z</date>
+  <millis>1573394639318</millis>
+  <nanos>584200</nanos>
+  <sequence>102</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>51</thread>
+  <message>8884 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.318584200Z</date>
+  <millis>1573394639318</millis>
+  <nanos>584200</nanos>
+  <sequence>101</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>55</thread>
+  <message>8888 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.318584200Z</date>
+  <millis>1573394639318</millis>
+  <nanos>584200</nanos>
+  <sequence>100</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>62</thread>
+  <message>804 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.318584200Z</date>
+  <millis>1573394639318</millis>
+  <nanos>584200</nanos>
+  <sequence>99</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>73</thread>
+  <message>8079 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.317582400Z</date>
+  <millis>1573394639317</millis>
+  <nanos>582400</nanos>
+  <sequence>98</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>50</thread>
+  <message>8883 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.317582400Z</date>
+  <millis>1573394639317</millis>
+  <nanos>582400</nanos>
+  <sequence>97</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>52</thread>
+  <message>8885 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.317582400Z</date>
+  <millis>1573394639317</millis>
+  <nanos>582400</nanos>
+  <sequence>96</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>70</thread>
+  <message>8076 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.317582400Z</date>
+  <millis>1573394639317</millis>
+  <nanos>582400</nanos>
+  <sequence>95</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>59</thread>
+  <message>801 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.317582400Z</date>
+  <millis>1573394639317</millis>
+  <nanos>582400</nanos>
+  <sequence>94</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>48</thread>
+  <message>8881 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.316583700Z</date>
+  <millis>1573394639316</millis>
+  <nanos>583700</nanos>
+  <sequence>93</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>69</thread>
+  <message>8075 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.316583700Z</date>
+  <millis>1573394639316</millis>
+  <nanos>583700</nanos>
+  <sequence>92</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>54</thread>
+  <message>8887 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.316583700Z</date>
+  <millis>1573394639316</millis>
+  <nanos>583700</nanos>
+  <sequence>91</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>65</thread>
+  <message>807 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.316583700Z</date>
+  <millis>1573394639316</millis>
+  <nanos>583700</nanos>
+  <sequence>90</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>63</thread>
+  <message>805 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.315585400Z</date>
+  <millis>1573394639315</millis>
+  <nanos>585400</nanos>
+  <sequence>89</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>66</thread>
+  <message>808 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.312584600Z</date>
+  <millis>1573394639312</millis>
+  <nanos>584600</nanos>
+  <sequence>80</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>47</thread>
+  <message>8880 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.312584600Z</date>
+  <millis>1573394639312</millis>
+  <nanos>584600</nanos>
+  <sequence>79</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>57</thread>
+  <message>8890 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.312584600Z</date>
+  <millis>1573394639312</millis>
+  <nanos>584600</nanos>
+  <sequence>78</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>72</thread>
+  <message>8078 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.312584600Z</date>
+  <millis>1573394639312</millis>
+  <nanos>584600</nanos>
+  <sequence>77</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>58</thread>
+  <message>800 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.314582600Z</date>
+  <millis>1573394639314</millis>
+  <nanos>582600</nanos>
+  <sequence>83</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>64</thread>
+  <message>806 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.314582600Z</date>
+  <millis>1573394639314</millis>
+  <nanos>582600</nanos>
+  <sequence>86</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>60</thread>
+  <message>802 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.314582600Z</date>
+  <millis>1573394639314</millis>
+  <nanos>582600</nanos>
+  <sequence>84</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>67</thread>
+  <message>809 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.314582600Z</date>
+  <millis>1573394639314</millis>
+  <nanos>582600</nanos>
+  <sequence>85</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>61</thread>
+  <message>803 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.313584400Z</date>
+  <millis>1573394639313</millis>
+  <nanos>584400</nanos>
+  <sequence>82</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>56</thread>
+  <message>8889 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.312584600Z</date>
+  <millis>1573394639312</millis>
+  <nanos>584600</nanos>
+  <sequence>81</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>71</thread>
+  <message>8077 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.315585400Z</date>
+  <millis>1573394639315</millis>
+  <nanos>585400</nanos>
+  <sequence>88</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>53</thread>
+  <message>8886 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.355080900Z</date>
+  <millis>1573394639355</millis>
+  <nanos>80900</nanos>
+  <sequence>104</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>33 from</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.355080900Z</date>
+  <millis>1573394639355</millis>
+  <nanos>80900</nanos>
+  <sequence>105</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8080 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.355080900Z</date>
+  <millis>1573394639355</millis>
+  <nanos>80900</nanos>
+  <sequence>106</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8081 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.355080900Z</date>
+  <millis>1573394639355</millis>
+  <nanos>80900</nanos>
+  <sequence>107</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8082 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.355080900Z</date>
+  <millis>1573394639355</millis>
+  <nanos>80900</nanos>
+  <sequence>108</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8083 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.355080900Z</date>
+  <millis>1573394639355</millis>
+  <nanos>80900</nanos>
+  <sequence>109</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8084 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:03:59.355080900Z</date>
+  <millis>1573394639355</millis>
+  <nanos>80900</nanos>
+  <sequence>110</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanningQueue</class>
+  <method>addTask</method>
+  <thread>1</thread>
+  <message>checking 8085 port on 127.0.0.1 ip</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:00.387289100Z</date>
+  <millis>1573394640387</millis>
+  <nanos>289100</nanos>
+  <sequence>111</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>75</thread>
+  <message>8081 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:00.387289100Z</date>
+  <millis>1573394640387</millis>
+  <nanos>289100</nanos>
+  <sequence>116</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>76</thread>
+  <message>8082 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:00.387289100Z</date>
+  <millis>1573394640387</millis>
+  <nanos>289100</nanos>
+  <sequence>115</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>74</thread>
+  <message>8080 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:00.387289100Z</date>
+  <millis>1573394640387</millis>
+  <nanos>289100</nanos>
+  <sequence>112</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>78</thread>
+  <message>8084 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:00.387289100Z</date>
+  <millis>1573394640387</millis>
+  <nanos>289100</nanos>
+  <sequence>113</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>79</thread>
+  <message>8085 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:00.387289100Z</date>
+  <millis>1573394640387</millis>
+  <nanos>289100</nanos>
+  <sequence>114</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>77</thread>
+  <message>8083 port on 127.0.0.1 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:18.997970400Z</date>
+  <millis>1573394658997</millis>
+  <nanos>970400</nanos>
+  <sequence>117</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>8880 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.060491600Z</date>
+  <millis>1573394659060</millis>
+  <nanos>491600</nanos>
+  <sequence>118</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>8881 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.107362400Z</date>
+  <millis>1573394659107</millis>
+  <nanos>362400</nanos>
+  <sequence>119</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>8882 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.122991800Z</date>
+  <millis>1573394659122</millis>
+  <nanos>991800</nanos>
+  <sequence>120</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>8886 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.122991800Z</date>
+  <millis>1573394659122</millis>
+  <nanos>991800</nanos>
+  <sequence>122</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>8884 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.122991800Z</date>
+  <millis>1573394659122</millis>
+  <nanos>991800</nanos>
+  <sequence>121</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>8883 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.138618100Z</date>
+  <millis>1573394659138</millis>
+  <nanos>618100</nanos>
+  <sequence>124</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>8888 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.138618100Z</date>
+  <millis>1573394659138</millis>
+  <nanos>618100</nanos>
+  <sequence>131</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>26</thread>
+  <message>801 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.138618100Z</date>
+  <millis>1573394659138</millis>
+  <nanos>618100</nanos>
+  <sequence>134</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>8885 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.138618100Z</date>
+  <millis>1573394659138</millis>
+  <nanos>618100</nanos>
+  <sequence>133</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>29</thread>
+  <message>804 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.138618100Z</date>
+  <millis>1573394659138</millis>
+  <nanos>618100</nanos>
+  <sequence>123</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>8890 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.138618100Z</date>
+  <millis>1573394659138</millis>
+  <nanos>618100</nanos>
+  <sequence>132</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>28</thread>
+  <message>803 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.138618100Z</date>
+  <millis>1573394659138</millis>
+  <nanos>618100</nanos>
+  <sequence>130</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>32</thread>
+  <message>807 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.138618100Z</date>
+  <millis>1573394659138</millis>
+  <nanos>618100</nanos>
+  <sequence>129</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>8887 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.138618100Z</date>
+  <millis>1573394659138</millis>
+  <nanos>618100</nanos>
+  <sequence>128</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>30</thread>
+  <message>805 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.138618100Z</date>
+  <millis>1573394659138</millis>
+  <nanos>618100</nanos>
+  <sequence>127</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>8889 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.138618100Z</date>
+  <millis>1573394659138</millis>
+  <nanos>618100</nanos>
+  <sequence>126</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>31</thread>
+  <message>806 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.138618100Z</date>
+  <millis>1573394659138</millis>
+  <nanos>618100</nanos>
+  <sequence>125</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>27</thread>
+  <message>802 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.138618100Z</date>
+  <millis>1573394659138</millis>
+  <nanos>618100</nanos>
+  <sequence>135</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>800 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.154234200Z</date>
+  <millis>1573394659154</millis>
+  <nanos>234200</nanos>
+  <sequence>136</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>35</thread>
+  <message>810 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.154234200Z</date>
+  <millis>1573394659154</millis>
+  <nanos>234200</nanos>
+  <sequence>141</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>38</thread>
+  <message>8077 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.154234200Z</date>
+  <millis>1573394659154</millis>
+  <nanos>234200</nanos>
+  <sequence>140</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>809 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.154234200Z</date>
+  <millis>1573394659154</millis>
+  <nanos>234200</nanos>
+  <sequence>139</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>36</thread>
+  <message>8075 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.154234200Z</date>
+  <millis>1573394659154</millis>
+  <nanos>234200</nanos>
+  <sequence>138</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>33</thread>
+  <message>808 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.154234200Z</date>
+  <millis>1573394659154</millis>
+  <nanos>234200</nanos>
+  <sequence>137</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>37</thread>
+  <message>8076 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.169868700Z</date>
+  <millis>1573394659169</millis>
+  <nanos>868700</nanos>
+  <sequence>143</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>42</thread>
+  <message>8081 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.169868700Z</date>
+  <millis>1573394659169</millis>
+  <nanos>868700</nanos>
+  <sequence>142</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>41</thread>
+  <message>8080 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.169868700Z</date>
+  <millis>1573394659169</millis>
+  <nanos>868700</nanos>
+  <sequence>144</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>40</thread>
+  <message>8079 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.169868700Z</date>
+  <millis>1573394659169</millis>
+  <nanos>868700</nanos>
+  <sequence>145</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>39</thread>
+  <message>8078 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.185494Z</date>
+  <millis>1573394659185</millis>
+  <nanos>494000</nanos>
+  <sequence>146</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>43</thread>
+  <message>8082 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.247987500Z</date>
+  <millis>1573394659247</millis>
+  <nanos>987500</nanos>
+  <sequence>147</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>44</thread>
+  <message>8083 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.279237600Z</date>
+  <millis>1573394659279</millis>
+  <nanos>237600</nanos>
+  <sequence>149</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>45</thread>
+  <message>8084 port on 127.0.0.0 ip has not answered</message>
+</record>
+<record>
+  <date>2019-11-10T14:04:19.279237600Z</date>
+  <millis>1573394659279</millis>
+  <nanos>237600</nanos>
+  <sequence>148</sequence>
+  <logger>com.company.Main</logger>
+  <level>INFO</level>
+  <class>com.company.ScanThread</class>
+  <method>run</method>
+  <thread>46</thread>
+  <message>8085 port on 127.0.0.0 ip has not answered</message>
+</record>
+</log>

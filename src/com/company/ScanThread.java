@@ -20,9 +20,11 @@ public class ScanThread implements Runnable {
             Socket s = new Socket(ip,port);
         } catch (IOException e) {
             manager.freeThread();
+            Main.log.info(port +" port on "+ip+" ip has not answered");
             return;
         }
         System.out.println("found opened port: "+port+" on IP: "+ip);
+        Main.log.info(port +" port on "+ip+" ip has answered");
         manager.freeThread();
     }
 }

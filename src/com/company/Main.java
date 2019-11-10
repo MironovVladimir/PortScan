@@ -2,9 +2,11 @@ package com.company;
 
 import org.apache.commons.cli.*;
 
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
 public class Main {
-
-
+    static Logger log = Logger.getLogger(Main.class.getName());
     public static void main(String[] args){
         Options options = new Options();
 
@@ -36,9 +38,14 @@ public class Main {
             CommandLine cmd = parser.parse(options, args);
             ArgParser test = new ArgParser(cmd);
             test.parseIp();
-        }catch(Exception e){
+        }catch(ParseException | NumberFormatException e){
             HelpFormatter hf = new HelpFormatter();
             hf.printHelp("PortScan", options);
+            log.log(Level.WARNING,"error");
+        }catch(InterruptedException e){
+            System.out.println("something gone wrong, please red logs");
+            log.log(Level.WARNING,"error");
         }
     }
 }
+// logger java
