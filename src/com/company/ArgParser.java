@@ -2,15 +2,17 @@ package com.company;
 
 import org.apache.commons.cli.CommandLine;
 
+import java.util.concurrent.*;
 import java.util.logging.Level;
 
 class ArgParser {
     private CommandLine cmd;
-    private ScanningQueue queue;
-    ArgParser(CommandLine cmd){
-        this.cmd = cmd;
+    private ExecutorService service;
+    ArgParser(CommandLine _cmd){
+        this.cmd = _cmd;
         int threads = Integer.parseInt(cmd.getOptionValue("t"));
-        if(threads>0) queue = new ScanningQueue(threads);
+        if(threads>0) service = Executors.newFixedThreadPool(Integer.parseInt(cmd.getOptionValue("t")));
+
         else System.out.println("incorrect threads number");
     }
 
@@ -29,6 +31,7 @@ class ArgParser {
                 Main.log.log(Level.WARNING, "incorrect ip address "+str, new Throwable());
             }
         }
+        service.shutdown();
     }
 
     private void parsePort(String addr) throws InterruptedException {
@@ -36,9 +39,9 @@ class ArgParser {
             Main.log.info("recived '"+str+"' port argument");
             String[] vals = str.split("-");
             if(vals.length ==2){
-                for(int i = Integer.parseInt(vals[0]); i<=Integer.parseInt(vals[1]);i++) queue.addTask(addr,i);
+                for(int i = Integer.parseInt(vals[0]); i<=Integer.parseInt(vals[1]);i++) service.execute(new ScanThread(addr, i));
             }
-            else if(vals.length == 1) queue.addTask(addr,Integer.parseInt(vals[0]));
+            else if(vals.length == 1) service.execute(new ScanThread(addr, Integer.parseInt(vals[0])));
         }
     }
 

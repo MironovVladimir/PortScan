@@ -3,15 +3,16 @@ package com.company;
 import java.io.IOException;
 import java.net.Socket;
 
+import static java.lang.Thread.sleep;
+
 public class ScanThread implements Runnable {
+
     private String ip;
     private int port;
-    private ScanningQueue manager;
-    ScanThread(String ip, int port, ScanningQueue manager){
+
+    public ScanThread(String ip, int port) {
         this.ip = ip;
-        this.manager = manager;
         this.port = port;
-        new Thread(this).start();
     }
 
     @Override
@@ -19,12 +20,10 @@ public class ScanThread implements Runnable {
         try {
             Socket s = new Socket(ip,port);
         } catch (IOException e) {
-            manager.freeThread();
             Main.log.info(port +" port on "+ip+" ip has not answered");
             return;
         }
         System.out.println("found opened port: "+port+" on IP: "+ip);
         Main.log.info(port +" port on "+ip+" ip has answered");
-        manager.freeThread();
     }
 }

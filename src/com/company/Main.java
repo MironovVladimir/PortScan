@@ -46,6 +46,7 @@ public class Main {
             System.out.println("something gone wrong, please red logs");
             log.log(Level.WARNING,"error");
         }
+        //System.exit(0);
     }
 }
 // logger java
