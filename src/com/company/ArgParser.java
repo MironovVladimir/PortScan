@@ -16,7 +16,7 @@ class ArgParser {
         else System.out.println("incorrect threads number");
     }
 
-    void parseIp() throws InterruptedException, NumberFormatException {
+    void parseIp() throws NumberFormatException {
         for(String str : cmd.getOptionValues('h')){
             boolean isValid = true;
             Main.log.info("recived '"+ str + "' ip argument ");
@@ -34,7 +34,7 @@ class ArgParser {
         service.shutdown();
     }
 
-    private void parsePort(String addr) throws InterruptedException {
+    private void parsePort(String addr) {
         for(String str : cmd.getOptionValues('p')){
             Main.log.info("recived '"+str+"' port argument");
             String[] vals = str.split("-");
@@ -45,7 +45,7 @@ class ArgParser {
         }
     }
 
-    private void dashProcessor(String[] subBlocks, String[] blocks) throws InterruptedException {
+    private void dashProcessor(String[] subBlocks, String[] blocks) {
         int from = Integer.parseInt(subBlocks[0]);
         int to = Integer.parseInt(subBlocks[1]);
         for(int i = from; i<= to;i++){
@@ -59,7 +59,7 @@ class ArgParser {
         }
     }
 
-    private void ipArgProcessor(String[] blocks) throws InterruptedException {
+    private void ipArgProcessor(String[] blocks) {
         String[] subBlocks = blocks[3].split("-");
         if(subBlocks.length>2) {
             System.out.println("incorrect '-' using in "+blocks[3]);

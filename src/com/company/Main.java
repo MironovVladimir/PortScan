@@ -42,11 +42,6 @@ public class Main {
             HelpFormatter hf = new HelpFormatter();
             hf.printHelp("PortScan", options);
             log.log(Level.WARNING,"error");
-        }catch(InterruptedException e){
-            System.out.println("something gone wrong, please red logs");
-            log.log(Level.WARNING,"error");
         }
-        //System.exit(0);
     }
 }
-// logger java
