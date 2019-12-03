@@ -3,8 +3,6 @@ package com.company;
 import java.io.IOException;
 import java.net.Socket;
 
-import static java.lang.Thread.sleep;
-
 public class ScanThread implements Runnable {
 
     private String ip;
