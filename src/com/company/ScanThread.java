@@ -8,9 +8,9 @@ public class ScanThread implements Runnable {
     private String ip;
     private int port;
 
-    public ScanThread(String ip, int port) {
-        this.ip = ip;
-        this.port = port;
+    public ScanThread(SocketContainer input){
+        this.ip = input.getIp();
+        this.port = input.getPort();
     }
 
     @Override
